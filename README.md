@@ -15,7 +15,6 @@
 15. Headphones  
 16. Tennis ball  
 17. Calculator  
-18. Toothbrush  
 19. Candle  
 20. Wallet  
 21. Scissors  
